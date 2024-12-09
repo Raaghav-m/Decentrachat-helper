@@ -1,0 +1,17 @@
+{
+  "name": "0g-serving-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@0glabs/0g-serving-broker": "^0.1.0",
+    "ethers": "^6.13.4",
+    "openai": "^4.76.0"
+  }
+}
