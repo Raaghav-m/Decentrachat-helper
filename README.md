@@ -7,13 +7,12 @@ To get started with this project, follow the steps below:
 ### Clone the Repository
 
 ```bash
-
-```
-
 git clone https://github.com/Raaghav-m/Decentrachat-helper
 cd Decentrachat-helper
+```
 
-````
+
+
 
 ### Install Dependencies
 
